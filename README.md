@@ -1,12 +1,12 @@
 # test
 ### program coverts strings to uppercase in real time no need of button--MAIN CODE=
 ### HTML
-<!--
+<code>
 <div id="app">
   <input type="text" v-model="message" />
   <h4>{{ message | uppercase }}</h4>
 </div>
--->
+</code>
 ### JAVASCRIPT
 
 Vue.filter('uppercase', function (value) {
