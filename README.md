@@ -1,4 +1,4 @@
-# test
+
 ### program coverts strings to uppercase in real time no need of button--MAIN CODE=
 ### HTML
 <code>
@@ -19,7 +19,7 @@ new Vue({
   }
 })
 
-![](image/seccond.jpeg)
+![](image/second.jpeg)
 
 ## Project setup
 ```
