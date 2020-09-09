@@ -19,7 +19,7 @@ new Vue({
   }
 })
 
-![](image/second.jpeg)
+![output image](image/second.jpeg)
 
 ## Project setup
 ```
