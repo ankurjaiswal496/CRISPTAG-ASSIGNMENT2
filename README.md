@@ -7,6 +7,7 @@
   <h4>{{ message | uppercase }}</h4>
 </div>
 </code>
+
 ### JAVASCRIPT
 
 Vue.filter('uppercase', function (value) {
@@ -19,6 +20,8 @@ new Vue({
   }
 })
 
+
+### output image
 ![output image](image/second.jpeg)
 
 ## Project setup
