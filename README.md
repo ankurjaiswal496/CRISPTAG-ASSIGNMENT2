@@ -19,12 +19,7 @@ new Vue({
   }
 })
 
-<img
-src=“image/second.jpeg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![](image/seccond.jpeg)
 
 ## Project setup
 ```
